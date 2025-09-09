@@ -1,2 +1,2 @@
 # dhinesh
-My First Repository iIn KGiSL Institute of Technology
+My First Repository In KGiSL Institute of Technology
